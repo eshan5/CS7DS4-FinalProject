@@ -1,1 +1,2 @@
 Shape of glory🥇 - We pick a kaggle dataset containing a comprehensive historical archive of the modern Olympic Games, spanning from Athens 1896 to Rio 2016 (athlete_events table with 270,000+ entries with noc_regions lookup table). This dataset is complex and needs visualization due to its deep temporal dimension, which captures shifting geopolitical boundaries and the evolution of sporting events over 120 years.
+Link to view the dashboard: https://drive.google.com/file/d/1vmBKZcWGqhNn3nmv72o_ge9zE9PupIoR/view
